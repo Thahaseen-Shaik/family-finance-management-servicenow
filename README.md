@@ -31,7 +31,7 @@ UI: Service Portal (custom forms & dashboards)
 
 Clone the repository
 
-git clone 
+git clone https://github.com/Thahaseen-Shaik/family-finance-management-servicenow.git
 
 
 Import the Update Set into your ServiceNow instance.
